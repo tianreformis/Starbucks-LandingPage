@@ -8,5 +8,5 @@ const kPriceTextStyle = TextStyle(
   color: Colors.black,
   fontSize: 30.0,
   fontWeight: FontWeight.w700,
-  fontFamily: 'Santana',
+  fontFamily: 'Santana', 
 );
